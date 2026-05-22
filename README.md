@@ -1,4 +1,4 @@
-Activity # 10: adoVM CTM Terminal Simulator (Linux Networking Commands)
+Activity # 9: adoVM CTM Terminal Simulator (Linux Networking Commands)
 
 
 
