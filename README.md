@@ -66,7 +66,7 @@ How to Download \& Run (from GitHub)
 
 Repository:
 
-https://github.com/xen0byt3/xen0byt3-CTM-Activity-10
+https://github.com/alien-isle/alienisle-CTM-Activity-9
 
 
 
@@ -96,7 +96,7 @@ Option 2: Clone using Git (Optional)
 
 2\. Run:
 
-&#x09;git clone https://github.com/xen0byt3/xen0byt3-CTM-Activity-10.git
+&#x09;git clone https://github.com/alien-isle/alienisle-CTM-Activity-9
 
 3\. Open the downloaded folder
 
